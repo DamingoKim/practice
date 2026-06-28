@@ -3,3 +3,6 @@ world
 test
 stage
 yessir
+sky
+ocean
+ocean
